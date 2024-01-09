@@ -1,12 +1,12 @@
 ---
-title: Golden
-subtitle: Website Design
+title: Lớp 7A1
+subtitle: Cơ bản và nâng cao
 layout: default
 modal-id: 3
-date: 2014-07-16
-img: golden.png
-thumbnail: golden-thumbnail.png
-alt: image-alt
+date: 2024-01-01
+img: 3.png
+thumbnail: 3-thumbnail.png
+alt: Lớp 7A1 Cơ bản và nâng cao
 project-date: April 2014
 client: Start Bootstrap
 category: Web Development

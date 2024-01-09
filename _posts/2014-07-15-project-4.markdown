@@ -1,12 +1,12 @@
 ---
-title: Treehouse
-subtitle: Website Design
+title: Lớp 8A1
+subtitle: Lớp luyện thi chuyên
 layout: default
 modal-id: 4
-date: 2014-07-15
-img: treehouse.png
-thumbnail: treehouse-thumbnail.png
-alt: image-alt
+date: 2024-01-01
+img: 4.png
+thumbnail: 4-thumbnail.png
+alt: Lớp 8A1 Luyện thi chuyên
 project-date: April 2014
 client: Start Bootstrap
 category: Web Development

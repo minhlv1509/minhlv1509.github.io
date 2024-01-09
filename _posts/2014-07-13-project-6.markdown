@@ -1,12 +1,12 @@
 ---
-title: Round Icons
-subtitle: Graphic Design
+title: Lớp 9A1
+subtitle: Luyện thi vào 10 - mục tiêu 9+
 layout: default
 modal-id: 6
-date: 2014-07-15
-img: roundicons.png
-thumbnail: roundicons-thumbnail.png
-alt: image-alt
+date: 2021-01-01
+img: 6.png
+thumbnail: 6-thumbnail.png
+alt: Lớp 9A1 Luyện thi vào 10 - mục tiêu 9+
 project-date: April 2014
 client: Start Bootstrap
 category: Web Development

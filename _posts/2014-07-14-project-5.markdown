@@ -1,12 +1,12 @@
 ---
-title: Startup Framework
-subtitle: Website Design
+title: Lớp 9A2
+subtitle: Lớp cận chuyên - chuyên điều kiện
 layout: default
 modal-id: 5
 date: 2014-07-14
-img: startup-framework.png
-thumbnail: startup-framework-thumbnail.png
-alt: image-alt
+img: 5.png
+thumbnail: 5-thumbnail.png
+alt: Lớp 9A2 Lớp cận chuyên
 project-date: April 2014
 client: Start Bootstrap
 category: Web Development

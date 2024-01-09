@@ -1,12 +1,12 @@
 ---
-title: Escape
-subtitle: Website Design
+title: Lớp 7A1
+subtitle: Cơ bản và nâng cao
 layout: default
 modal-id: 2
-date: 2014-07-17
-img: escape.png
-thumbnail: escape-thumbnail.png
-alt: image-alt
+date: 2024-01-01
+img: 2.png
+thumbnail: 2-thumbnail.png
+alt: Lớp 7A1 Cơ bản và nâng cao
 project-date: April 2014
 client: Start Bootstrap
 category: Web Development
